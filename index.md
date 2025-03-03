@@ -1,6 +1,8 @@
-# Milton Francisco
+---
+layout: default
+---
 
-## Computer Science Capstone
+# Computer Science Capstone
 
 ### Introduction
 
