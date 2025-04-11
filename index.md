@@ -32,13 +32,17 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 ## Artifact One: Database Dashboard using Python
 
+![Dashboard Image](DataDashboard.png)
+
 **Brief Description:** This artifact was created to provide a user friendly way to interact with data in a large database. It was originally developed within a course provided virtual environment and utilized Jupyter Notebook with the Jupyter Dash library.
 
 [**Original Artifact Location**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard/ProjectTwoDashboard.ipynb)
 
 **Enhancement:**
 
-## Artifact Two: CSV Parser using an AVL Tree
+## Artifact Two: Course Planner using a CSV parser
+
+![Course Planner Image](CoursePlanner.png)
 
 **Brief Description:** This artifact was created to read and store college courses from a CSV file, in addition to verifying prerequisite courses are contained within the data set. It originally stored the course data within a vector.
 
