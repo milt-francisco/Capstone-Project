@@ -10,11 +10,11 @@ Throughout my studies, I had the opportunity to engage in diverse team projects 
 
 This ePortfolio is a collection of artifacts that capture the breadth of my technical proficiency and problem-solving capabilities. The portfolio is organized around three core objectives:
 
-> Software Design & Engineering
+- Software Design & Engineering
 
-> Algorithms & Data Structures
+- Algorithms & Data Structures
 
-> Databases
+- Databases
 
 Each artifact demonstrates a unique aspect of my expertise. The enhancements I applied to these projects were specifically designed to meet these course outcomes:
 1.	**Building Collaborative Environments:** Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
@@ -30,16 +30,18 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 [![Button](https://img.shields.io/badge/Code%20Review%20Video-lightgreen?logo=youtube)](https://youtu.be/vRXSZ_k8jTI)
 
-## Artifact One: Data Dashboard
+## Artifact One: Database Dashboard using Python
 
-**Brief Description:**
+**Brief Description:** This artifact was created to provide a user friendly way to interact with data in a large database. It was originally developed within a course provided virtual environment and utilized Jupyter Notebook with the Jupyter Dash library.
 
-**Original Artifact:**
+[**Original Artifact Location**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard/ProjectTwoDashboard.ipynb)
 
-## Artifact Two: CSV Parser
+**Enhancement:**
 
-**Brief Description:**
+## Artifact Two: CSV Parser using an AVL Tree
 
-**Original Artifact:**
+**Brief Description:** This artifact was created to read and store college courses from a CSV file, in addition to verifying prerequisite courses are contained within the data set. It originally stored the course data within a vector.
+
+[**Original Artifact Location**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-CoursePlanner/ProjectTwo.cpp)
 
 **Enhancement:**
