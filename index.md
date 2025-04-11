@@ -42,7 +42,7 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 ## Artifact Two: Course Planner using an AVL Tree
 
-
+![Course Planner Image](CoursePlanner.png)
 
 **Brief Description:** This artifact was created to read and store college courses from a CSV file, in addition to verifying prerequisite courses are contained within the data set. It originally stored the course data within a vector.
 
