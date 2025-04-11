@@ -40,7 +40,7 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 **Enhancement:**
 
-## Artifact Two: Course Planner using a CSV parser
+## Artifact Two: Course Planner using an AVL Tree
 
 
 
