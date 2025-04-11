@@ -36,15 +36,17 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 **Brief Description:** This artifact was created to provide a user friendly way to interact with data in a large database. It was originally developed within a course provided virtual environment and utilized Jupyter Notebook with the Jupyter Dash library.
 
-> [**Original Artifact Link**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard)
+> [**Original Artifact Files**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard)
 
-> [**Enhanced Artifact Link**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
+> [**Enhanced Artifact Files**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
 
 **Enhancement Details:** This artifact was only able to work within a specific virtual environment, that is unavailable to the public. Additionally, the data table contained all the information from the database which resulted in a cluttered view for unnecessary columns, like longitude and latitude. 
 
-My first enhancement involved refactoring the program to work in a configurable environment. I utilized a MongoDB within an EC2 environment to make the database available remotely and modified the Python middleware to connect to the remote database.
+My first enhancement involved refactoring the program to work in a configurable environment. I utilized a MongoDB within an EC2 environment to make the database available remotely and modified the Python middleware to connect to the remote database. This iteration is also included in the repository to show my progress between the enhancements.
 
-My second enhancement involved refactoring the program to no longer use the deprecated Jupyter Dash library, reworking the data table to enable toggling of extraneous information, including additional information within the pie chart and resolving issues resulting from the refactor. 
+My second enhancement involved refactoring the program to no longer use the deprecated Jupyter Dash library, including additional information for the pie chart, and obscuring extraneous information with the ability to toggle what information is displayed in the data table. Additionally, to remove the detailed instruction requirements to run the first enhancement, I configured the application to run within a Docker container. The Docker image, with instructions to run the application, can be found here: 
+
+> [**Docker Image**](https://hub.docker.com/r/miltfrancisco/cs499-capstone) 
 
 The more detailed narratives for each enhancement can be found here: 
 > [**Dashboard Narrative One**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative1.pdf)
@@ -58,9 +60,9 @@ The more detailed narratives for each enhancement can be found here:
 
 **Brief Description:** This artifact was created to read and store college courses from a CSV file into a data structure for the purposes of course planning. Originally, the data was held in a vector and the data was required to be sorted. 
 
-> [**Original Artifact Link**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-CoursePlanner)
+> [**Original Artifact Files**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-CoursePlanner)
 
-> [**Enhanced Artifact Link**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
+> [**Enhanced Artifact Files**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
 
 **Enhancement Details:** My enhancement involved refactoring the code from C++ to Python and changing the data structure from a vector to a self-balancing binary search tree (AVL tree). In the original project, the data structure choices were a vector, hashmap, or binary search tree (BST), and the order of the data set was unknown. This led me to use a vector to prevent an unbalanced BST that results from an ordered data set. This enhancement ultimately reduced the time complexity for searches from O(n) to O(log n) and eliminated the need for sorting the data as it is already stored sorted. Additionally, changes were made in the file verification process to eliminate unnecessary steps.
 
