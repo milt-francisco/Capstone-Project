@@ -48,7 +48,7 @@ My second enhancement involved refactoring the program to no longer use the depr
 
 > [**Docker Image**](https://hub.docker.com/r/miltfrancisco/cs499-capstone) 
 
-The more detailed narratives for each enhancement can be found here: 
+This artifact covered the Software Engineering & Design, and Database core objectives. The more detailed narratives for each enhancement can be found here: 
 > [**Dashboard Narrative One**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative1.pdf)
 
 > [**Dashboard Narrative Two**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative2.pdf)
@@ -66,6 +66,6 @@ The more detailed narratives for each enhancement can be found here:
 
 **Enhancement Details:** My enhancement involved refactoring the code from C++ to Python and changing the data structure from a vector to a self-balancing binary search tree (AVL tree). In the original project, the data structure choices were a vector, hashmap, or binary search tree (BST), and the order of the data set was unknown. This led me to use a vector to prevent an unbalanced BST that results from an ordered data set. This enhancement ultimately reduced the time complexity for searches from O(n) to O(log n) and eliminated the need for sorting the data as it is already stored sorted. Additionally, changes were made in the file verification process to eliminate unnecessary steps.
 
-The more detailed narrative for this enhancement can be found here: 
+This artifact covered the Data Structures & Algorithms core objective. The more detailed narrative for this enhancement can be found here: 
 > [**Course Planner Narrative**](https://github.com/milt-francisco/Capstone-Project/blob/main/CoursePlanner_Narrative.pdf)
 
