@@ -26,9 +26,10 @@ Each artifact demonstrates a unique aspect of my expertise. The enhancements I a
 Together, these artifacts form a cohesive narrative of my growth as a computer science professional. They integrate the principles and methodologies learned through coursework with the innovative practices required for real-world solutions. Beyond the technical work, the constructive feedback from instructors and the rich discussions with peers have continuously refined my professional outlook, fortifying my unwavering commitment to excellence.
 
 Each artifact in this portfolio is accompanied by a narrative that details the enhancements made and explains how it meets the course outcomes. A code review of the initial artifacts can be viewed by clicking the button below:
-<br>
 
 [![Button](https://img.shields.io/badge/Code%20Review%20Video-lightgreen?logo=youtube)](https://youtu.be/vRXSZ_k8jTI)
+
+<br />
 
 ## Artifact One: Database Dashboard using Python
 
@@ -54,7 +55,8 @@ This artifact covered the Software Engineering & Design, and Database core objec
 > [**Dashboard Narrative One**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative1.pdf)
 
 > [**Dashboard Narrative Two**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative2.pdf)
-<br>
+
+<br />
 
 ## Artifact Two: Course Planner using an AVL Tree
 
