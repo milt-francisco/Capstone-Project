@@ -38,7 +38,9 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 > [**Original Artifact Files**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard)
 
-> [**Enhanced Artifact Files**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
+> [**First Enhancement Files**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
+
+> [**Final Enhancement Files**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%203-DataDashboard)
 
 **Enhancement Details:** This artifact was only able to work within a specific virtual environment, that is unavailable to the public. Additionally, the data table contained all the information from the database which resulted in a cluttered view for unnecessary columns, like longitude and latitude. 
 
@@ -64,7 +66,7 @@ This artifact covered the Software Engineering & Design, and Database core objec
 
 > [**Enhanced Artifact Files**](https://github.com/milt-francisco/Capstone-Project/tree/main/Enhancement%202-CoursePlanner)
 
-**Enhancement Details:** My enhancement involved refactoring the code from C++ to Python and changing the data structure from a vector to a self-balancing binary search tree (AVL tree). In the original project, the data structure choices were a vector, hashmap, or binary search tree (BST), and the order of the data set was unknown. This led me to use a vector to prevent an unbalanced BST that results from an ordered data set. This enhancement ultimately reduced the time complexity for searches from O(n) to O(log n) and eliminated the need for sorting the data as it is already stored sorted. Additionally, changes were made in the file verification process to eliminate unnecessary steps.
+**Enhancement Details:** My enhancement involved refactoring the code from C++ to Python and changing the data structure from a vector to a self-balancing binary search tree (AVL tree). In the original project, the data structure choices were a vector, hashmap, or binary search tree (BST), and the order of the data set was unknown. This led me to use a vector in the original implementation, to prevent an unbalanced BST that results from an ordered data set. This enhancement had less stringent requirements and more choices were available. This enhancement ultimately reduced the time complexity for searches from O(n) to O(log n) and eliminated the need for sorting the data as it is already stored sorted. Additionally, changes were made in the file verification process to eliminate unnecessary steps to "Load the Data Structure" as it is loaded concurrently with file verification.
 
 This artifact covered the Data Structures & Algorithms core objective. The more detailed narrative for this enhancement can be found here: 
 > [**Course Planner Narrative**](https://github.com/milt-francisco/Capstone-Project/blob/main/CoursePlanner_Narrative.pdf)
