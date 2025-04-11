@@ -2,7 +2,7 @@
 
 # Computer Science Capstone
 
-## Introduction
+## Introduction and Professional Assessment
 
 My journey into computer science began during my service as a Nuclear Machinist Mate in the United States Navy. In my last few years, I discovered coding challenges, and a passion for solving complex problems through technology followed. This newfound enthusiasm led me to pursue a Bachelor of Science degree in Computer Science at Southern New Hampshire University, where my academic and hands-on experiences deepened my technical knowledge.
 
@@ -36,9 +36,9 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 **Brief Description:** This artifact was created to provide a user friendly way to interact with data in a large database. It was originally developed within a course provided virtual environment and utilized Jupyter Notebook with the Jupyter Dash library.
 
-[**Original Artifact Location**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard/ProjectTwoDashboard.ipynb)
+[**Original Artifact**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-DataDashboard/ProjectTwoDashboard.ipynb)
 
-**Enhancement:**
+**Enhancement Details:**
 
 ## Artifact Two: Course Planner using an AVL Tree
 
@@ -46,6 +46,6 @@ Each artifact in this portfolio is accompanied by a narrative that details the e
 
 **Brief Description:** This artifact was created to read and store college courses from a CSV file, in addition to verifying prerequisite courses are contained within the data set. It originally stored the course data within a vector.
 
-[**Original Artifact Location**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-CoursePlanner/ProjectTwo.cpp)
+[**Original Artifact**](https://github.com/milt-francisco/Capstone-Project/blob/main/Original-CoursePlanner/ProjectTwo.cpp)
 
-**Enhancement:**
+**Enhancement Details:**
