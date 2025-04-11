@@ -10,11 +10,11 @@ Throughout my studies, I had the opportunity to engage in diverse team projects 
 
 This ePortfolio is a collection of artifacts that capture the breadth of my technical proficiency and problem-solving capabilities. The portfolio is organized around three core objectives:
 
-- Software Design & Engineering
+- **Software Design & Engineering**
 
-- Algorithms & Data Structures
+- **Algorithms & Data Structures**
 
-- Databases
+- **Databases**
 
 Each artifact demonstrates a unique aspect of my expertise. The enhancements I applied to these projects were specifically designed to meet these course outcomes:
 1.	**Building Collaborative Environments:** Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
@@ -47,9 +47,9 @@ My first enhancement involved refactoring the program to work in a configurable 
 My second enhancement involved refactoring the program to no longer use the deprecated Jupyter Dash library, reworking the data table to enable toggling of extraneous information, including additional information within the pie chart and resolving issues resulting from the refactor. 
 
 The more detailed narratives for each enhancement can be found here: 
-> [Dashboard Narrative One](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative1.pdf)
+> [**Dashboard Narrative One**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative1.pdf)
 
-> [Dashboard Narrative Two](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative2.pdf)
+> [**Dashboard Narrative Two**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative2.pdf)
 <br>
 
 ## Artifact Two: Course Planner using an AVL Tree
@@ -65,5 +65,5 @@ The more detailed narratives for each enhancement can be found here:
 **Enhancement Details:** My enhancement involved refactoring the code from C++ to Python and changing the data structure from a vector to a self-balancing binary search tree (AVL tree). In the original project, the data structure choices were a vector, hashmap, or binary search tree (BST), and the order of the data set was unknown. This led me to use a vector to prevent an unbalanced BST that results from an ordered data set. This enhancement ultimately reduced the time complexity for searches from O(n) to O(log n) and eliminated the need for sorting the data as it is already stored sorted. Additionally, changes were made in the file verification process to eliminate unnecessary steps.
 
 The more detailed narrative for this enhancement can be found here: 
-> [Course Planner Narrative](https://github.com/milt-francisco/Capstone-Project/blob/main/CoursePlanner_Narrative.pdf)
+> [**Course Planner Narrative**](https://github.com/milt-francisco/Capstone-Project/blob/main/CoursePlanner_Narrative.pdf)
 
