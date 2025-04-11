@@ -51,7 +51,7 @@ My second enhancement involved refactoring the program to no longer use the depr
 
 > [**Docker Image**](https://hub.docker.com/r/miltfrancisco/cs499-capstone) 
 
-This artifact covered the Software Engineering & Design, and Database core objectives. The more detailed narratives for each enhancement can be found here: 
+This artifact covered the Software Design & Engineering, and Database core objectives. The more detailed narratives for each enhancement can be found here: 
 > [**Dashboard Narrative One**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative1.pdf)
 
 > [**Dashboard Narrative Two**](https://github.com/milt-francisco/Capstone-Project/blob/main/DataDashboard_Narrative2.pdf)
